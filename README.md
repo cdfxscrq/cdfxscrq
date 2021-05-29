@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: Computers fascinate me more than humans !
 
-- 📫 How to reach me: [Ayush Parikh](https://www.github.com/cdfxscrq) ;  
+- 📫 How to reach me: [AK25](https://www.github.com/cdfxscrq) ;  
 
 
 <br>
@@ -53,8 +53,8 @@
 
 <br><details> <summary align="center"> </samp></summary>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
+  <img src="https://raw.githubusercontent.com/cdfxscrq/cdfxscrq/main/me.gif" width=400 height=340>
+  <img src="https://raw.githubusercontent.com/cdfxscrq/cdfxscrq/main/new.gif" height=340/>
 </p></details>
 -->
 
