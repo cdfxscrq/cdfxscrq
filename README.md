@@ -1,8 +1,8 @@
-<h1 align="center">Hey there, I'm Ayush Parikh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Ashok Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Creator/Writer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/cdfxscrq/cdfxscrq/blob/main/coding-freak%20(1).gif">
 
 ## 🙋‍♂️ About Me
 - 💻 I’m currently working on something cool :wink: ;
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: Computers fascinate me more than humans !
 
-- 📫 How to reach me: [Ayush Parikh](https://www.linkedin.com/in/ayush-parikh332/) ;  
+- 📫 How to reach me: [Ayush Parikh](https://www.github.com/cdfxscrq) ;  
 
 
 <br>
@@ -25,12 +25,12 @@
 
 ## 📊 My Github Stats
 <div align="center">
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Ayushparikh-code&bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff" /></p>
-<p align="right"> <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ayushparikh-code&layout=compact&langs_count=8&theme=algolia &bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff" /></p>  </div>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=cdfxscrq&bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff" /></p>
+<p align="right"> <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdfxscrq&layout=compact&langs_count=8&theme=algolia &bg_color=30,FC5C7D,005AA7&title_color=fff&text_color=fff" /></p>  </div>
  
 
  
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ayushparikh-code&theme=highcontrast&background=005AA7&ring=FC5C7D&dates=FFFFFFFF&currStreakLabel=FC5C7D&fire=D4431D&border=DD2727" alt="ayushparikh-code" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=cdfxscrq&theme=highcontrast&background=005AA7&ring=FC5C7D&dates=FFFFFFFF&currStreakLabel=FC5C7D&fire=D4431D&border=DD2727" alt="ayushparikh-code" /></p>
 <details> <summary align="center"> </samp></summary><b>Note:</b>My Programming languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
 
 ---
@@ -70,7 +70,7 @@
 </div>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ayushparikh-code}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{cdfxscrq}/count.svg" /></p> 
 <br></div>
 
 
